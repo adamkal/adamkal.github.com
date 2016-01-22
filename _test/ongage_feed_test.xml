@@ -1,0 +1,19 @@
+<feed>
+    <mailing>
+        <variables>
+            <variable>
+                <key>content</key>
+                <value>
+                    <![CDATA[... Entire Body of HTML code goes here  ...]]>
+                </value>
+            </variable>
+        </variables>
+        <blocks>
+            <block name="block1">
+                <items>
+                    <item id="1"></item>
+                </items>
+            </block>
+        </blocks>
+    </mailing>
+</feed>
